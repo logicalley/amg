@@ -1,2 +1,7 @@
-# amg
-CLI for managing Annie stuff
+# amg releases
+
+CLI for managing Annie stuff.
+
+This repository only contains binary releases for [amg, the logicalley developer tool].
+
+Latest release: n/a
