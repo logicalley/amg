@@ -4,4 +4,4 @@ CLI for managing Annie stuff.
 
 This repository only contains binary releases for [amg, the logicalley developer tool].
 
-Latest release: 2024-11-14-01-15
+Latest release: 2024-11-15-04-48
